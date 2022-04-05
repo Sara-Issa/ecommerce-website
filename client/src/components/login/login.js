@@ -12,6 +12,9 @@ function Login() {
         <div>
             <input type="password" placeholder="password"></input>
         </div>
+        <div>
+          <button>Login</button>
+        </div>
     </div>
   )
 }

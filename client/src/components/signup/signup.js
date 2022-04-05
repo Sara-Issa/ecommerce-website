@@ -1,6 +1,6 @@
 import React from 'react'
 
-function Singup() {
+function Signup() {
   return (
     <div>
         <div><h2>Sign Up</h2></div>
@@ -13,8 +13,11 @@ function Singup() {
         <div>
             <input type="password" placeholder='repeat password'/>
         </div>
+        <div>
+        <button>Signup</button>
+        </div>
     </div>
   )
 }
 
-export default Singup
+export default Signup
