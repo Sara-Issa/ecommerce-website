@@ -6,10 +6,10 @@ function Section3() {
         <div> <h2>products</h2></div>
         <div>
             {/* this section supposeto be like floating photo automatically */}
-        <img src=''/>
-        <img src=''/>
-        <img src=''/>
-        <img src=''/>
+        <img src="./ee.jpg" alt='product'/>
+        <img src="./ee.jpg" alt='product'/>
+        <img src="./ee.jpg" alt='product'/>
+        <img src="./ee.jpg" alt='product'/>
         </div>
         {/* arrow icon for see more */}
         <div></div>
