@@ -20,7 +20,7 @@ function Section4() {
         <h6 className="text-center font-sans font-medium">the person's testimonial about the website, and they think about it in general.</h6>
             </div>
         </div>
-    </div>
+    </div> 
   )
 }
 

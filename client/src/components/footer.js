@@ -2,7 +2,7 @@ import React from 'react'
 
 function Footer() {
   return (
-    <div>
+    <div className="flex justify-around my-20 py-20 bg-blue-color1 text-white">
         <div>
             <h1>DevZoid</h1>
             <h3>Address : xxxxx xxxxx xxxxx</h3>
