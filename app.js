@@ -16,14 +16,12 @@ app.use(cors());
 app.use(express.static("images"));
 
 const userRouter = require("./Router/userRouter");
-
-
-
-
+const shopRouter = require("./Router/shopRouter");
+const productRouter = require("./Router/productRouter");
 
 app.use("/api/user", userRouter);
-
-
+app.use("/api/product", productRouter);
+app.use("/api/shop", shopRouter);
 
 
 

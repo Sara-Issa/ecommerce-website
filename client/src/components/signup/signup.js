@@ -8,6 +8,9 @@ function Signup() {
         <div className="py-3">
           <h2 className="font-extrabold font-sans text-xl text-blue-color1">Sign Up</h2>
           </div>
+          <div className="py-3">
+            <input type="text" placeholder='username' className="rounded-xl w-80 h-10 text-gray-600"/>
+        </div>
         <div className="py-3">
             <input type="text" placeholder='email' className="rounded-xl w-80 h-10 text-gray-600"/>
         </div>
